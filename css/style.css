@@ -1,0 +1,51 @@
+body {
+  background-color: #B9CCED;
+  margin: 0;
+  width: 100%;
+
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  width: 5%;
+  border-width: 4px;
+}
+
+h1 {
+  color: #fd5e53;
+}
+
+.tab {
+  border: 2px solid black;
+  text-align: center;
+  padding: 7px
+}
+
+.science:hover {
+  background-color: grey;
+}
+
+#titul {
+  border-radius: 100%;
+}
+
+
+.top {
+  background-color: #8bbabb;
+
+}
+
+.edu {
+  padding-left: 10px;
+}
+
+.bask {
+    padding-left: 10px;
+}
+
+.skill {
+  padding-left: 10px;
+  padding-bottom: 20px;
+}
